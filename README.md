@@ -1,2 +1,3 @@
 # omc-activities
-##Organization-and-Management-Concepts
+Organization-and-Management-Concepts
+
